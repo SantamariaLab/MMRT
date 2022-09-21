@@ -1,0 +1,18 @@
+calH:
+parametrize at 34C ---no temp adjustment, since the model is originally run at 34C?
+
+
+kad:
+parametrize at 24C
+
+
+kap:
+parametrize at 24C
+
+
+kdr:
+parametrize at 24C
+
+
+na3:
+parametrize at 24C
